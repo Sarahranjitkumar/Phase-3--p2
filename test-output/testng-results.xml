@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-23T08:31:48Z" name="Default suite" finished-at="2024-09-23T08:31:53Z" duration-ms="5551">
+    <groups>
+    </groups>
+    <test started-at="2024-09-23T08:31:48Z" name="Default test" finished-at="2024-09-23T08:31:53Z" duration-ms="5551">
+      <class name="phase.ReqResTest">
+        <test-method signature="Post_Employee()[pri:0, instance:phase.ReqResTest@77128536]" started-at="2024-09-23T08:31:48Z" name="Post_Employee" finished-at="2024-09-23T08:31:53Z" duration-ms="5505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post_Employee -->
+      </class> <!-- phase.ReqResTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
